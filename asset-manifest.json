@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dice_react/static/css/main.85267f32.css",
+    "main.js": "/dice_react/static/js/main.4a572cba.js",
+    "static/js/787.4362262f.chunk.js": "/dice_react/static/js/787.4362262f.chunk.js",
+    "static/media/dice-06.svg": "/dice_react/static/media/dice-06.b4510f95e499b98b33de4c1a8dc37e2c.svg",
+    "static/media/dice-05.svg": "/dice_react/static/media/dice-05.d8f2c8b2dc46157a111cf4bbf19ae59f.svg",
+    "static/media/dice-04.svg": "/dice_react/static/media/dice-04.554122fa72f0456f58bb17b35abdcd9b.svg",
+    "static/media/dice-03.svg": "/dice_react/static/media/dice-03.cae3f43d135b2ba50021ce655e19cbcc.svg",
+    "static/media/dice-02.svg": "/dice_react/static/media/dice-02.ed00d44afa5715d6386b5d6b3a7a1648.svg",
+    "index.html": "/dice_react/index.html",
+    "static/media/dice-01.svg": "/dice_react/static/media/dice-01.fff2193f6d90a7e4562ae3e73bcec3b6.svg",
+    "main.85267f32.css.map": "/dice_react/static/css/main.85267f32.css.map",
+    "main.4a572cba.js.map": "/dice_react/static/js/main.4a572cba.js.map",
+    "787.4362262f.chunk.js.map": "/dice_react/static/js/787.4362262f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85267f32.css",
+    "static/js/main.4a572cba.js"
+  ]
+}
